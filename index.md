@@ -40,19 +40,20 @@ image:
     <a href="/papers/2016-ems-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
     <a href="https://doi.org/10.1016/j.envsoft.2016.04.003"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
   </li>
+  <li>
     <strong>Ana D. Maldonado</strong>, Laura Uusitalo, Alan Tucker, Thorsten Blenckner, Pedro A. Aguilera and
   Antonio Salmerón (2019)<em> Prediction of a complex system with few data: Evaluation of the effect of model structure and amount of data with dynamic bayesian network models </em> 
     Environmental Modelling & Software 118, 281-297 
     <a href="/papers/2019-ems-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
     <a href="https://doi.org/10.1016/j.envsoft.2019.04.011"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
   </li>
-  </li>
+  <li>
     Inmaculada Pérez-Bernabé, <strong>Ana D. Maldonado</strong>, Antonio Salmerón and Thomas D. Nielse (2020)<em> MoTBFs: An R Package for Learning Hybrid Bayesian Networks Using Mixtures of Truncated Basis Functions </em> 
     The R Journal 12(2), 321-341 
     <a href="/papers/2020-Rjournal-paper.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Paper</i></a>
     <a href="https://doi.org/10.32614/RJ-2021-019"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
   </li>
-    <li>
+  <li>
     <strong>Ana D. Maldonado</strong>, Alberto Valdivielso, Alejandro Rescia and Pedro A. Aguilera (2020)<em> Probabilistic graphical models for species richness prediction: are current protected areas effective to face climate emergency? </em> Global Ecology and Conservation 23, e01162
     <a href="/papers/2020-gec-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
     <a href="https://doi.org/10.1016/j.gecco.2020.e01162"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
