@@ -2,7 +2,7 @@
 
 This Jekyll theme powers my personal website.
 
-This is forked from [Andrés Masegosa] (https://github.com/andresmasegosa/andresmasegosa.github.io), which was previously forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
+This is forked from [Andrés Masegosa](https://github.com/andresmasegosa/andresmasegosa.github.io), which was previously forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
 
 ## Testing locally
 
