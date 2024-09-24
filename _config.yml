@@ -2,7 +2,7 @@ title:            ana
 titlehilight:     maldonado
 tagline:          Researchg Scientist
 description:      Researchg Scientist
-logo:             andresrm-circle.jpg
+logo:             admaldonado-circle
 #Comment out url when working locally to resolve base urls correctly
 url:  https://admaldonado.github.io
 
@@ -10,12 +10,11 @@ url:  https://admaldonado.github.io
 
 # Owner/author information
 owner:
-  name:           andres r. masegosa
+  name:           ana d. maldonado
 #  avatar:         avatar.png
   bio:            "Spanish-Granada"
   email:          arma@cs.aau.dk
-  twitter:        andresmasegosa
-  github:         andresmasegosa
+  github:         admaldonado
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 #  disqus:         balzac
