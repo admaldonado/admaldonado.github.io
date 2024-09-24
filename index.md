@@ -1,12 +1,13 @@
 ---
 layout: home_page
-title: "andres masegosa"
-tags: [andres r. masegosa, andres, machine learning, Almeria]
+title: "ana d. maldonado"
+tags: [ana maldonado, machine learning, Almeria]
 description: 
 image:
-  feature: andresrm-circle.png
+  feature: admaldonado-circle.png
 ---
 
+<!--- 
 ### Positions
 ---
 - PhD/PostDoc positions in Probabilistic Machine Learning: 
@@ -14,7 +15,7 @@ image:
   * Email me if you are interested
 
 - If interested in an (online) intership with me, just drop me an email! 
-
+--->
 <!--- 
 ### News
 ---
