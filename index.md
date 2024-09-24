@@ -29,7 +29,7 @@ image:
 ### Publications
 ---
 
-<p class="intro"> I highlight my most recent and relevant publications. You can visit my <a href="https://scholar.google.com/citations?user=jZ2-BN4AAAAJ&hl=en">google scholar profile</a> for a complete list of my publications.</p>
+<p class="intro"> I highlight my most relevant publications. You can visit my <a href="https://scholar.google.com/citations?user=jZ2-BN4AAAAJ&hl=en">google scholar profile</a> for the complete list.</p>
 
 <ol class="custom-counter">
   <li>
