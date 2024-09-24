@@ -29,6 +29,8 @@ image:
 ### Publications
 ---
 
+<p class="intro"> I highlight my most recent and relevant publications. You can visit my <a href="https://scholar.google.com/citations?user=jZ2-BN4AAAAJ&hl=en">google scholar profile</a> for a complete list of my publications.</p>
+
 <ol class="custom-counter">
   <li>
     <strong>Ana D. Maldonado</strong>, Pedro A. Aguilera and Antonio Salmerón (2016)<em> Continuous Bayesian networks for probabilistic environmental risk mapping. </em> Stochastic Environmental Research and Risk Assessment 30, 1441-1455. 
