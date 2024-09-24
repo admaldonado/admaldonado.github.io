@@ -27,6 +27,7 @@ image:
 </style>
 
 ### Publications
+---
 
 <ol class="custom-counter">
   <li>
@@ -35,6 +36,19 @@ image:
   <a href="/papers/2016-serra-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
   <a href="https://doi.org/10.1007/s00477-015-1133-2"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
   </li>
+  <li>
+    <strong>Ana D. Maldonado</strong>, Pedro A. Aguilera and Antonio Salmerón (2016)<em> Modeling zero-inflated explanatory variables in hybrid Bayesian network classifiers for species occurrence prediction. </em> 
+  Environmental Modelling & Software 82, 31-43 
+  <a href="/papers/2016-ems-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
+  <a href="https://doi.org/10.1016/j.envsoft.2016.04.003"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
+  </li>
+  <strong>Ana D. Maldonado</strong>, Laura Uusitalo, Alan Tucker, Thorsten Blenckner, Pedro A. Aguilera and
+Antonio Salmerón (2019)<em> Prediction of a complex system with few data: Evaluation of the effect of model structure and amount of data with dynamic bayesian network models </em> 
+  Environmental Modelling & Software 118, 281-297 
+  <a href="/papers/2016-ems-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
+  <a href="https://doi.org/10.1016/j.envsoft.2019.04.011"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
+  </li>
+
 </ol>
 
 
