@@ -1,8 +1,8 @@
-# [andresmasegosa.github.io (Preview here)](https://andresmasegosa.github.io)
+# [admaldonado.github.io (Preview here)](https://admaldonado.github.io)
 
 This Jekyll theme powers my personal website.
 
-This is forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
+This is forked from [Andrés Masegosa] (https://github.com/andresmasegosa/andresmasegosa.github.io), which was previously forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
 
 ## Testing locally
 
@@ -14,7 +14,4 @@ This is forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io).
 
 Use this for anything you want. :)
 
-## TODO
-* papers.md:
-  * add conversion of .bib files as in https://github.com/bamos/cv to papers.yml
-  * add bibtex, pdf, code crossrefs from talks & bib file
+
