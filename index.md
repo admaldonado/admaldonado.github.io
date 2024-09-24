@@ -13,6 +13,22 @@ image:
   Progress in Artificial Intelligence 4, 49-57. <a href="http://link.springer.com/article/10.1007/s13748-015-0067-8">[link]</a>
 </li>
 
+---
+layout: external
+title: Continuous Bayesian networks for probabilistic environmental risk mapping
+role:  Stochastic Environmental Research and Risk Assessment
+category: papers
+external_url: https://link.springer.com/article/10.1007/s00477-015-1133-2
+tags: [mte, bn, elvira]
+image:
+  thumb: 2021-Diversity.png
+published: true
+---
+
+**Authors:** Ana D. Maldonado, Pedro A. Aguilera and Antonio Salmerón
+
+<a href="/papers/2016-serra-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
+
 <!--- 
 ### Positions
 ---
