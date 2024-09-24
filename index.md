@@ -8,10 +8,6 @@ image:
 ---
 
 
-<li>
-<strong>A.D. Maldonado</strong>, R.F. Ropero, P.A. Aguilera, R. Rum&iacute;, A. Salmer&oacute;n (2015)<em> Continuous Bayesian networks for the estimation of species richness. </em> 
-  Progress in Artificial Intelligence 4, 49-57. <a href="http://link.springer.com/article/10.1007/s13748-015-0067-8">[link]</a>
-</li>
 
 ---
 layout: external
@@ -27,7 +23,15 @@ published: true
 
 **Authors:** Ana D. Maldonado, Pedro A. Aguilera and Antonio Salmerón
 
+
+<ol>
+<strong>A.D. Maldonado</strong>, Pedro A. Aguilera and Antonio Salmerón (2016)<em> Continuous Bayesian networks for probabilistic environmental risk mapping. </em> 
+  Stochastic Environmental Research and Risk Assessment 30, 1441-1455. <a href="http://link.springer.com/article/10.1007/s13748-015-0067-8">[link]</a>
+</ol>
+
+
 <a href="/papers/2016-serra-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
+<a href="https://doi.org/10.1007/s00477-015-1133-2"><i class="ai ai-doi" aria-hidden="true" > Preprint</i></a>
 
 <!--- 
 ### Positions
