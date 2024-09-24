@@ -26,6 +26,7 @@ image:
     }
 </style>
 
+### Publications
 
 <ol class="custom-counter">
   <li>
