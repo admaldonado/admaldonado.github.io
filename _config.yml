@@ -13,7 +13,7 @@ owner:
   name:           ana d. maldonado
 #  avatar:         avatar.png
   bio:            "Spanish-Granada"
-  email:          arma@cs.aau.dk
+  email:          ana.d.maldonado@ual.es
   github:         admaldonado
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
@@ -34,18 +34,18 @@ links:
 #    url: /about
   - title: publications
     url: /publications
-  - title: Talks
-    url: /talks
-  - title: Projects
-    url: /projects
-  - title: Software
-    url: /software
-  - title: Industry
-    url: /industry
+#  - title: Talks
+#    url: /talks
+#  - title: Projects
+#    url: /projects
+#  - title: Software
+#    url: /software
+#  - title: Industry
+#    url: /industry
 #  - title: Blog
 #    url: /blog
-  - title: Short-CV
-    url: /bio
+#  - title: Short-CV
+#    url: /bio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Spain/Madrid
