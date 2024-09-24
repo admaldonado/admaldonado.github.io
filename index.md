@@ -7,6 +7,12 @@ image:
   feature: admaldonado-circle.png
 ---
 
+
+<li>
+<strong>A.D. Maldonado</strong>, R.F. Ropero, P.A. Aguilera, R. Rum&iacute;, A. Salmer&oacute;n (2015)<em> Continuous Bayesian networks for the estimation of species richness. </em> 
+  Progress in Artificial Intelligence 4, 49-57. <a href="http://link.springer.com/article/10.1007/s13748-015-0067-8">[link]</a>
+</li>
+
 <!--- 
 ### Positions
 ---
