@@ -34,6 +34,7 @@ image:
 <ol class="custom-counter">
   <li>
     <strong>Ana D. Maldonado</strong>, Pedro A. Aguilera and Antonio Salmerón (2016)<em> Continuous Bayesian networks for probabilistic environmental risk mapping. </em> Stochastic Environmental Research and Risk Assessment 30, 1441-1455. 
+    <br>
     <a href="/papers/2016-serra-preprint.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" > Preprint</i></a>
     <a href="https://doi.org/10.1007/s00477-015-1133-2"><i class="ai ai-doi" aria-hidden="true" > Publisher</i></a> 
   </li>
